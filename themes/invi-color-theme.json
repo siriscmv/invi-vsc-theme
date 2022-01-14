@@ -141,7 +141,7 @@
 		// Status bar
 		"statusBarItem.remoteBackground": "#5865f2",
 		"statusBar.background": "#5865f2",
-		"statusBar.foreground": "#C4C8FB",
+		"statusBar.foreground": "#d9dbff",
 		"statusBar.border": "#101014",
 
 		"statusBar.noFolderBackground": "#16161e",
@@ -152,8 +152,8 @@
 		"statusBar.debuggingBorder": "#00A39F00",
 		
 		// Activity bar
-		"activityBar.background": "#5865f2",
-		"activityBar.foreground": "#A0A7F8",
+		"activityBar.background": "#1D1F2A",
+		"activityBar.foreground": "#5865f2",
 		"activityBarBadge.background": "#5865f2",
 		"activityBarBadge.foreground": "#303956",
 		"activityBar.inactiveForeground": "#ffffff30",
