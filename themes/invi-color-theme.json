@@ -8,7 +8,7 @@
 		"selection.background": "#5865f244",
 		"editorGroup.emptyBackground": "#2A324F",
 		"editor.selectionBackground": "#5865f222",
-		"editor.background": "#2A324B",
+		"editor.background": "#1a1b26",
 		"editor.foreground": "#F3F4F5",
 		"editorWhitespace.foreground": "#ADB1C255",
 
@@ -27,7 +27,7 @@
 		
 		// Tabs
 		"tab.activeBorderTop": "#5865f2",
-		"tab.border": "#ECECEC00",
+		"tab.border": "#ACB2F9",
 		"tab.inactiveBackground": "#242B40",
 		"tab.inactiveForeground": "#f3f4f560",
 		"editorGroupHeader.tabsBackground": "#242B40",

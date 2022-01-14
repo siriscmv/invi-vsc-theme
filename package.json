@@ -3,8 +3,18 @@
     "displayName": "invi",
     "description": "Custom theme inspired by Tokyo Night, Nocterial Palenight, Nanowise and more!",
     "version": "0.0.1",
+    "publisher": "Siris",
     "engines": {
         "vscode": "^1.63.0"
+    },
+    "icon": "icons/LOGO.png",
+    "author": {
+        "name": "Siris",
+        "url": "https://github.com/Siris01"
+    },
+    "repository": {
+        "url": "https://github.com/Siris01/invi-vsc-theme.git",
+        "type": "git"
     },
     "categories": [
         "Themes"
