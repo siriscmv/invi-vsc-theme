@@ -76,16 +76,18 @@
 		"debugToolBar.border": "#E9EAEB00",
 		
 		// Sidebar
-		"sideBar.background": "#242B40",
-		"sideBar.foreground": "#ffffffb0",
-		"sideBar.border": "#DEDFE000",
-		"sideBarSectionHeader.background": "#303956",
-		"sideBarSectionHeader.foreground": "#ffffffe0",
-		"sideBarSectionHeader.border": "#DEDFE000",
+		"sideBar.foreground": "#787c99",
+        "sideBar.background": "#16161e",
+        "sideBar.border": "#101014",
+        "sideBarTitle.foreground": "#787c99",
+        "sideBarSectionHeader.background": "#16161e",
+        "sideBarSectionHeader.foreground": "#a9b1d6",
+        "sideBarSectionHeader.border": "#101014",
+        "sideBar.dropBackground": "#1e202e",
 
 		// Scrollbar
 		"scrollbar.shadow": "#00000000",
-		"scrollbarSlider.background": "#47506B80",
+		"scrollbarSlider.background": "#5865f29a",
 		"scrollbarSlider.activeBackground": "#47506B80",
 		"scrollbarSlider.hoverBackground": "#47506B80",
 		
@@ -108,10 +110,10 @@
 		// Diff view
 		"diffEditor.insertedTextBackground": "#B3FF6324",
 		"diffEditor.removedTextBackground": "#FFAEAC44",
-		"merge.incomingContentBackground": "#14B1FF33",
-		"merge.incomingHeaderBackground": "#14B1FF77",
-		"merge.currentContentBackground": "#35CF6833",
-		"merge.currentHeaderBackground": "#35CF6866",
+		"merge.incomingContentBackground": "#F3596633",
+		"merge.incomingHeaderBackground": "#F3596677",
+		"merge.currentContentBackground": "#14B1FF33",
+		"merge.currentHeaderBackground": "#14B1FF77",
 		
 		// Settings
 		"settings.modifiedItemIndicator": "#B3FF63",
@@ -134,20 +136,19 @@
 		
 		// Line numbers
 		"editorLineNumber.activeForeground": "#5865f2",
-		"editorLineNumber.foreground": "#9194A2aa",
+		"editorLineNumber.foreground": "#A0A7F8",
 		
 		// Status bar
 		"statusBarItem.remoteBackground": "#5865f2",
-		"statusBar.background": "#242B40",
-		"statusBar.foreground": "#ffffff",
-		"statusBar.border": "#00000000",
+		"statusBar.background": "#5865f2",
+		"statusBar.foreground": "#787c99",
+		"statusBar.border": "#101014",
 
-		"statusBar.noFolderBackground": "#47506B",
-		"statusBar.noFolderForeground": "#2A324B",
+		"statusBar.noFolderBackground": "#16161e",
 		"statusBar.noFolderBorder": "#00000000",
 		
 		"statusBar.debuggingBackground": "#5865f2bb",
-		"statusBar.debuggingForeground": "#303956",
+		"statusBar.debuggingForeground": "#787c99",
 		"statusBar.debuggingBorder": "#00A39F00",
 		
 		// Activity bar
@@ -190,14 +191,15 @@
 		// Input
 		"input.border": "#E9EAEB00",
 		"input.background": "#303956",
-		"input.foreground": "#f3f4f5a9",
+		"input.foreground": "#f3f4f5a9", 
 		"input.placeholderForeground": "#f3f4f550",
 
 		// Panel
-		"panel.background": "#242b40",
-		"panel.border": "#00000000",
+		"panel.background": "#16161e",
+		"panel.border": "#101014",
+        "panelTitle.activeForeground": "#787c99",
+        "panelTitle.inactiveForeground": "#42465d",
 		"panelTitle.activeBorder": "#5865f2",
-		"panelTitle.activeForeground": "#f3f4f5",
 		
 		// Terminal
 		"terminal.ansiBlack": "#565869",
