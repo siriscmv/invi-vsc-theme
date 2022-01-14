@@ -9,7 +9,7 @@
 		"editorGroup.emptyBackground": "#2A324F",
 		"editor.selectionBackground": "#5865f222",
 		"editor.background": "#1a1b26",
-		"editor.foreground": "#F3F4F5",
+		"editor.foreground": "#8892F6",
 		"editorWhitespace.foreground": "#ADB1C255",
 
 		// Menu selection
@@ -36,13 +36,13 @@
 		// Select highlighting
 		"editor.wordHighlightBackground": "#656ddd7a",
 		"editorOverviewRuler.wordHighlightForeground": "#656ddd7a",
-		"editorOverviewRuler.wordHighlightStrongForeground": "#35CF68",
+		"editorOverviewRuler.wordHighlightStrongForeground": "#ACB2F9",
 		
 		// Search highlighting
 		"editor.findMatchBackground": "#5865f26A",
 		"editor.findMatchHighlightBackground": "#5865f22A",
 		"editor.hoverHighlightBackground": "#5865f218",
-		"editorOverviewRuler.findMatchForeground": "#04d1bcAA",
+		"editorOverviewRuler.findMatchForeground": "#ACB2F9AA",
 
 		// Quick Picker
 		"pickerGroup.foreground": "#5865f2",
@@ -76,7 +76,7 @@
 		"debugToolBar.border": "#E9EAEB00",
 		
 		// Sidebar
-		"sideBar.foreground": "#787c99",
+		"sideBar.foreground": "#8892F6",
         "sideBar.background": "#16161e",
         "sideBar.border": "#101014",
         "sideBarTitle.foreground": "#787c99",
@@ -141,19 +141,19 @@
 		// Status bar
 		"statusBarItem.remoteBackground": "#5865f2",
 		"statusBar.background": "#5865f2",
-		"statusBar.foreground": "#787c99",
+		"statusBar.foreground": "#C4C8FB",
 		"statusBar.border": "#101014",
 
 		"statusBar.noFolderBackground": "#16161e",
 		"statusBar.noFolderBorder": "#00000000",
 		
 		"statusBar.debuggingBackground": "#5865f2bb",
-		"statusBar.debuggingForeground": "#787c99",
+		"statusBar.debuggingForeground": "#C4C8FB",
 		"statusBar.debuggingBorder": "#00A39F00",
 		
 		// Activity bar
-		"activityBar.background": "#2A324B",
-		"activityBar.foreground": "#5865f2",
+		"activityBar.background": "#5865f2",
+		"activityBar.foreground": "#A0A7F8",
 		"activityBarBadge.background": "#5865f2",
 		"activityBarBadge.foreground": "#303956",
 		"activityBar.inactiveForeground": "#ffffff30",
