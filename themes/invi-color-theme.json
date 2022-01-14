@@ -27,14 +27,15 @@
 		
 		// Tabs
 		"tab.activeBorderTop": "#5865f2",
-		"tab.border": "#ACB2F9",
+		"tab.border": "#242B40",
+		"tab.activeModifiedBorder": "#F35966",
 		"tab.inactiveBackground": "#242B40",
 		"tab.inactiveForeground": "#f3f4f560",
 		"editorGroupHeader.tabsBackground": "#242B40",
 		
 		// Select highlighting
-		"editor.wordHighlightBackground": "#ADB1C23A",
-		"editorOverviewRuler.wordHighlightForeground": "#ADB1C288",
+		"editor.wordHighlightBackground": "#656ddd7a",
+		"editorOverviewRuler.wordHighlightForeground": "#656ddd7a",
 		"editorOverviewRuler.wordHighlightStrongForeground": "#35CF68",
 		
 		// Search highlighting
@@ -50,11 +51,11 @@
 		"editor.snippetTabstopHighlightBackground": "#ADB1C23A",
 
 		// Selected line
-		"editor.lineHighlightBorder": "#00000000",
+		"editor.lineHighlightBorder": "#0000009f",
 		"editor.lineHighlightBackground": "#303956",
 
 		// Bracket match
-		"editorBracketMatch.background": "#47506B",
+		"editorBracketMatch.background": "#47516b",
 		"editorBracketMatch.border": "#47506B",
 		"editor.foldBackground": "#47506B",
 		
@@ -62,12 +63,12 @@
 		"editorLink.activeForeground": "#717CF4",
 		
 		// Go to line highlighting
-		"editor.rangeHighlightBackground": "#F5B90033",
-		"editor.findRangeHighlightBackground": "#F5B90011",
+		"editor.rangeHighlightBackground": "#00f51479",
+		"editor.findRangeHighlightBackground": "#00f55e28",
 		
 		// Debugger line highlighting
-		"editor.stackFrameHighlightBackground": "#F5B90033",
-		"editor.focusedStackFrameHighlightBackground": "#B3FF6322",
+		"editor.stackFrameHighlightBackground": "#00f51479",
+		"editor.focusedStackFrameHighlightBackground": "#00f55e28",
 		
 		// Debugger
 		"debugExceptionWidget.background": "#303956",
