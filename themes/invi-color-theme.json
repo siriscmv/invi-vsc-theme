@@ -6,7 +6,7 @@
 		"focusBorder": "#8892F6",
 		"foreground": "#bebebe",
 		"selection.background": "#8892F644",
-		"editorGroup.emptyBackground": "#2A324F",
+		"editorGroup.emptyBackground": "#5865f2",
 		"editor.selectionBackground": "#8892F622",
 		"editor.background": "#1a1b26",
 		"editor.foreground": "#8892F6",
@@ -14,24 +14,24 @@
 
 		// Menu selection
 		"menu.background": "#242b40",
-		"menu.selectionBackground": "#303956",
-		"menu.selectionForeground": "#8892F6",
+		"menu.selectionBackground": "#5865f2",
+		"menu.selectionForeground": "#DBDEFC",
 		"menubar.selectionBackground": "#303956",
 		"menubar.selectionForeground": "#8892F6",
 
 		// Title bar
-		"titleBar.activeBackground"   : "#242b40",
+		"titleBar.activeBackground"   : "#717CF4",
         "titleBar.activeForeground"   : "#e2e6e9",
-        "titleBar.inactiveBackground" : "#242b40",
+        "titleBar.inactiveBackground" : "#717CF4",
         "titleBar.inactiveForeground" : "#e2e6e94d",
 		
 		// Tabs
-		"tab.activeBorderTop": "#8892F6",
+		"tab.activeBorderTop": "#F3F4FE",
 		"tab.border": "#242B40",
 		"tab.activeModifiedBorder": "#F35966",
-		"tab.inactiveBackground": "#242B40",
+		"tab.inactiveBackground": "#242b40",
 		"tab.inactiveForeground": "#f3f4f560",
-		"editorGroupHeader.tabsBackground": "#242B40",
+		"editorGroupHeader.tabsBackground": "#242b40",
 		
 		// Select highlighting
 		"editor.wordHighlightBackground": "#656ddd7a",
