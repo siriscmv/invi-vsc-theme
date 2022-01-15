@@ -83,7 +83,7 @@
         "sideBarSectionHeader.background": "#16161e",
         "sideBarSectionHeader.foreground": "#ACB2F9",
         "sideBarSectionHeader.border": "#101014",
-        "sideBar.dropBackground": "#1e202e",
+        "sideBar.dropBackground": "#1e202e5d",
 
 		// Scrollbar
 		"scrollbar.shadow": "#00000000",
@@ -139,7 +139,7 @@
 		"editorLineNumber.foreground": "#A0A7F8",
 		
 		// Status bar
-		"statusBarItem.remoteBackground": "#000000",
+		"statusBarItem.remoteBackground": "#020316",
 		"statusBar.background": "#5865f2",
 		"statusBar.foreground": "#C4C8FB",
 		"statusBar.border": "#101014",
@@ -152,11 +152,11 @@
 		"statusBar.debuggingBorder": "#00A39F00",
 		
 		// Activity bar
-		"activityBar.background": "#1D1F2A",
+		"activityBar.background": "#020316c7",
 		"activityBar.foreground": "#5865f2",
-		"activityBarBadge.background": "#ACB2F9",
+		"activityBarBadge.background": "#DBDEFC",
 		"activityBarBadge.foreground": "#5865f2",
-		"activityBar.inactiveForeground": "#ffffff30",
+		"activityBar.inactiveForeground": "#ACB2F9",
 		
 		// Git: Sidebar
 		"gitDecoration.untrackedResourceForeground": "#B3FF63aa",
