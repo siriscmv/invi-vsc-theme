@@ -79,9 +79,9 @@
 		"sideBar.foreground": "#5865f2",
         "sideBar.background": "#16161e",
         "sideBar.border": "#101014",
-        "sideBarTitle.foreground": "#8892F6",
+        "sideBarTitle.foreground": "#ACB2F9",
         "sideBarSectionHeader.background": "#16161e",
-        "sideBarSectionHeader.foreground": "#a9b1d6",
+        "sideBarSectionHeader.foreground": "#ACB2F9",
         "sideBarSectionHeader.border": "#101014",
         "sideBar.dropBackground": "#1e202e",
 
@@ -141,7 +141,7 @@
 		// Status bar
 		"statusBarItem.remoteBackground": "#5865f2",
 		"statusBar.background": "#5865f2",
-		"statusBar.foreground": "#8892F6",
+		"statusBar.foreground": "#C4C8FB",
 		"statusBar.border": "#101014",
 
 		"statusBar.noFolderBackground": "#16161e",
@@ -153,9 +153,9 @@
 		
 		// Activity bar
 		"activityBar.background": "#1D1F2A",
-		"activityBar.foreground": "#8892F6",
-		"activityBarBadge.background": "#8892F6",
-		"activityBarBadge.foreground": "#303956",
+		"activityBar.foreground": "#5865f2",
+		"activityBarBadge.background": "#ACB2F9",
+		"activityBarBadge.foreground": "#5865f2",
 		"activityBar.inactiveForeground": "#ffffff30",
 		
 		// Git: Sidebar
