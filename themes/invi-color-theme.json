@@ -139,7 +139,7 @@
 		"editorLineNumber.foreground": "#A0A7F8",
 		
 		// Status bar
-		"statusBarItem.remoteBackground": "#5865f2",
+		"statusBarItem.remoteBackground": "#000000",
 		"statusBar.background": "#5865f2",
 		"statusBar.foreground": "#C4C8FB",
 		"statusBar.border": "#101014",
