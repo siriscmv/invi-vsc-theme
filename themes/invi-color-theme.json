@@ -76,10 +76,10 @@
 		"debugToolBar.border": "#E9EAEB00",
 		
 		// Sidebar
-		"sideBar.foreground": "#8892F6",
+		"sideBar.foreground": "#5865f2",
         "sideBar.background": "#16161e",
         "sideBar.border": "#101014",
-        "sideBarTitle.foreground": "#787c99",
+        "sideBarTitle.foreground": "#8892F6",
         "sideBarSectionHeader.background": "#16161e",
         "sideBarSectionHeader.foreground": "#a9b1d6",
         "sideBarSectionHeader.border": "#101014",
@@ -139,16 +139,16 @@
 		"editorLineNumber.foreground": "#A0A7F8",
 		
 		// Status bar
-		"statusBarItem.remoteBackground": "#8892F6",
-		"statusBar.background": "#8892F6",
-		"statusBar.foreground": "#d9dbff",
+		"statusBarItem.remoteBackground": "#5865f2",
+		"statusBar.background": "#5865f2",
+		"statusBar.foreground": "#8892F6",
 		"statusBar.border": "#101014",
 
 		"statusBar.noFolderBackground": "#16161e",
 		"statusBar.noFolderBorder": "#00000000",
 		
-		"statusBar.debuggingBackground": "#8892F6bb",
-		"statusBar.debuggingForeground": "#C4C8FB",
+		"statusBar.debuggingBackground": "#5865f2",
+		"statusBar.debuggingForeground": "#8892F6",
 		"statusBar.debuggingBorder": "#00A39F00",
 		
 		// Activity bar
