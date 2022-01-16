@@ -2,7 +2,7 @@
     "name": "invi",
     "displayName": "invi",
     "description": "Custom theme inspired by Tokyo Night, Nocterial Palenight, Nanowise and more!",
-    "version": "0.2.0",
+    "version": "0.2.2",
     "publisher": "Siris",
     "engines": {
         "vscode": "^1.63.0"
