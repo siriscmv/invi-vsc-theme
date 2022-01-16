@@ -52,7 +52,7 @@
 
 		// Selected line
 		"editor.lineHighlightBorder": "#0000009f",
-		"editor.lineHighlightBackground": "#303956",
+		"editor.lineHighlightBackground": "#8ea9ff71",
 
 		// Bracket match
 		"editorBracketMatch.background": "#47516b",
@@ -135,8 +135,8 @@
 		"extensionButton.prominentHoverBackground": "#8892F670",
 		
 		// Line numbers
-		"editorLineNumber.activeForeground": "#8892F6",
-		"editorLineNumber.foreground": "#A0A7F8",
+		"editorLineNumber.activeForeground": "#5865f2",
+		"editorLineNumber.foreground": "#DBDEFC",
 		
 		// Status bar
 		"statusBarItem.remoteBackground": "#020316",
@@ -156,7 +156,7 @@
 		"activityBar.foreground": "#5865f2",
 		"activityBarBadge.background": "#DBDEFC",
 		"activityBarBadge.foreground": "#5865f2",
-		"activityBar.inactiveForeground": "#ACB2F9",
+		"activityBar.inactiveForeground": "#DBDEFC",
 		
 		// Git: Sidebar
 		"gitDecoration.untrackedResourceForeground": "#B3FF63aa",
@@ -173,10 +173,10 @@
 		"editorOverviewRuler.deletedForeground": "#FF5C57",
 		
 		// Errors & warnings
-		"editorError.foreground": "#FF5C56",
-		"editorOverviewRuler.errorForeground": "#FF5C56",
-		"editorWarning.foreground": "#8892F6",
-		"editorOverviewRuler.warningForeground": "#8892F6",
+		"editorError.foreground": "#F35966",
+		"editorOverviewRuler.errorForeground": "#F35966",
+		"editorWarning.foreground": "#F3E658",
+		"editorOverviewRuler.warningForeground": "#F3E658",
 		
 		// Peek view
 		"peekView.border": "#B3FF63",
